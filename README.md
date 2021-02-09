@@ -11,4 +11,4 @@ We have simulated SEAIRD model and control based SEAIRD model numerically in pyt
 
 The code is based on the following paper, where you can find more theoretical information.
 
-- Madhab Barman, Snigdhashree Nayak, Manoj Kumar Yadav, Soumyendu Raha, Nachiketa Mishra: *Modeling Control, Lockdown & Exit Strategies for COVID-19 Pandemic in India. July 2020.  (DOI:10.1101/2020.07.25.20161992)
+- Madhab Barman, Snigdhashree Nayak, Manoj Kumar Yadav, Soumyendu Raha, Nachiketa Mishra: * Modeling Control, Lockdown & Exit Strategies for COVID-19 Pandemic in India. July 2020.  (DOI:10.1101/2020.07.25.20161992)
